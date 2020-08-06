@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.51db9f54.chunk.css",
-    "main.js": "/static/js/main.31494a49.chunk.js",
-    "main.js.map": "/static/js/main.31494a49.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.b95ec835.js",
-    "runtime-main.js.map": "/static/js/runtime-main.b95ec835.js.map",
-    "static/js/2.bf53b7c3.chunk.js": "/static/js/2.bf53b7c3.chunk.js",
-    "static/js/2.bf53b7c3.chunk.js.map": "/static/js/2.bf53b7c3.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.ffd781f66258505034f8491bc09fba67.js": "/precache-manifest.ffd781f66258505034f8491bc09fba67.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.51db9f54.chunk.css.map": "/static/css/main.51db9f54.chunk.css.map",
-    "static/media/aerlux.png": "/static/media/aerlux.027e218f.png",
-    "static/media/flickr.png": "/static/media/flickr.cf8fd92b.png",
-    "static/media/recruitment-app.png": "/static/media/recruitment-app.6f2b94ef.png",
-    "static/media/shop.png": "/static/media/shop.be6362eb.png",
-    "static/media/weather-app.png": "/static/media/weather-app.c15ccc5c.png"
+    "main.css": "/raduprodan/static/css/main.51db9f54.chunk.css",
+    "main.js": "/raduprodan/static/js/main.9a285bcb.chunk.js",
+    "main.js.map": "/raduprodan/static/js/main.9a285bcb.chunk.js.map",
+    "runtime-main.js": "/raduprodan/static/js/runtime-main.3ff2440e.js",
+    "runtime-main.js.map": "/raduprodan/static/js/runtime-main.3ff2440e.js.map",
+    "static/js/2.bf53b7c3.chunk.js": "/raduprodan/static/js/2.bf53b7c3.chunk.js",
+    "static/js/2.bf53b7c3.chunk.js.map": "/raduprodan/static/js/2.bf53b7c3.chunk.js.map",
+    "index.html": "/raduprodan/index.html",
+    "precache-manifest.4ea2b77219f4278d934a8e73c60db246.js": "/raduprodan/precache-manifest.4ea2b77219f4278d934a8e73c60db246.js",
+    "service-worker.js": "/raduprodan/service-worker.js",
+    "static/css/main.51db9f54.chunk.css.map": "/raduprodan/static/css/main.51db9f54.chunk.css.map",
+    "static/media/aerlux.png": "/raduprodan/static/media/aerlux.027e218f.png",
+    "static/media/flickr.png": "/raduprodan/static/media/flickr.cf8fd92b.png",
+    "static/media/recruitment-app.png": "/raduprodan/static/media/recruitment-app.6f2b94ef.png",
+    "static/media/shop.png": "/raduprodan/static/media/shop.be6362eb.png",
+    "static/media/weather-app.png": "/raduprodan/static/media/weather-app.c15ccc5c.png"
   }
 }
