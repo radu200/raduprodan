@@ -2,7 +2,7 @@
   "name": "my-website2",
   "version": "0.1.0",
   "private": true,
-  "homepage": "/",
+  "homepage": "https://radu200.github.io/raduprodan/",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.9.0",
